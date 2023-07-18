@@ -35,7 +35,7 @@ Required python modules
 
 Install: <br>
     <code>pip install pysnc</code><br>
-    <code>git clone </code><br>
+    <code>git clone https://github.com/Jekyllz/sso-comparator.git</code><br>
     <code>cd sso-comparator</code><br>
     <code>python comparator.py</code>
     
