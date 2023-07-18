@@ -46,8 +46,8 @@ Program is set to search for the last 30 minutes for errors. You can change the 
 You can change the search filter from within servicenow instance browser to copy query <br>
 <code>gr.add_encoded_query("messageLIKEsso")</code>
 
+![COMPARATOR GIF](https://github.com/Jekyllz/sso-comparator/assets/24834166/960eaa7a-52e7-4f99-bf5a-a3338a1567d4)
 
-![sso-comparator](https://github.com/Jekyllz/sso-comparator/assets/24834166/1e95b1ec-940f-4472-adcc-5fa075c2f111)
 
 
 Ktinter is maby a future project at this point as end users will greatly benefit from a GUI interface. And will reach a wider audience. 
