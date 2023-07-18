@@ -1,4 +1,3 @@
-ServiceNow SSO Error finder - to support users without the navigation hassle.
 # SSO Comparator!
 ```
 
@@ -10,6 +9,8 @@ ServiceNow SSO Error finder - to support users without the navigation hassle.
                                                                                                                                                         
 Automatic SSO Log Scanning!
 ```
+SSO Comparator is an error finder for Single Sign-on intergration issues - to support users without the navigation hassle in locating misconfiguations. This will read error logs from sys_log table and display your configuations that are currently set.
+
 Current Functions below of this program:
 
 * Check sso debugging enabled on instance provided - glide.authenticate.multisso.debug within sys_properties
