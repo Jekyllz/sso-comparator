@@ -19,7 +19,7 @@ Current Functions below of this program:
 
 * Read system logs (syslog) and filter out saml logs for errors
 
-* Try to work with error logs to determine filter to validate error with KB error table
+* Try to work with error logs to determine filter to validate error with KB error table - (Work in progress currently only locates NameID mismatches)
 https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0759250
 
 * Read IDP Identity provider table and prompt user for options.
