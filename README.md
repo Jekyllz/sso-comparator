@@ -46,7 +46,7 @@ Program is set to search for the last 30 minutes for errors. You can change the 
 You can change the search filter from within servicenow instance browser to copy query <br>
 <code>gr.add_encoded_query("messageLIKEsso")</code>
 
-![COMPARATOR GIF](https://github.com/Jekyllz/sso-comparator/assets/24834166/960eaa7a-52e7-4f99-bf5a-a3338a1567d4)
+![comparatorgif](https://github.com/Jekyllz/sso-comparator/assets/24834166/7d1364a9-2987-445e-8c4c-2cc884e18ae8)
 
 
 
