@@ -55,14 +55,14 @@ def spinning_cursor():
 def welcomecomparator():
     global time
     global os
-    print(bcolors.OKGREEN,'        _____ _____  ____     ______ ____   __  ___ ____   ___     ____   ___   ______ ____   ____ ')
-    print('        / ___// ___/ / __ \\   / ____// __ \\ /  |/  // __ \\ /   |   / __ \\ /   | /_  __// __ \\ / __ \\')
-    print('        \__ \\ \__ \\ / / / /  / /    / / / // /\_/ // /_/ // /| |  / /_/ // /| |  / /  / / / // /_/ /')
-    print('       ___/ /___/ // /_/ /  / /___ / /_/ // /  / // ____// ___ | / _, _// ___ | / /  / /_/ // _, _/ ')
-    print('      /____//____/ \____/   \____/ \____//_/  /_//_/    /_/  |_|/_/ |_|/_/  |_|/_/   \____//_/ |_|  ')
-    print('                                                                                                    ')
-    print('                                                                                                    ')
-    print(bcolors.OKCYAN,'      Automatic ServiceNow Troubleshooting                                                      ',bcolors.ENDC)
+    print(bcolors.OKGREEN)
+    print('   ______                                       __            ')
+    print('  / ____/___  ____ ___  ____  ____ __________ _/ /_____  _____')
+    print(' / /   / __ \/ __ `__ \/ __ \/ __ `/ ___/ __ `/ __/ __ \/ ___/')
+    print('/ /___/ /_/ / / / / / / /_/ / /_/ / /  / /_/ / /_/ /_/ / /    ')
+    print('\____/\____/_/ /_/ /_/ .___/\__,_/_/   \__,_/\__/\____/_/     ')
+    print('                    /_/                                       ')
+    print(bcolors.OKCYAN,'      Automatic ServiceNow Troubleshooting', bcolors.ENDC)
 
     with Spinner():
         time.sleep(1.5)
