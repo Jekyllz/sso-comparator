@@ -1,7 +1,7 @@
 import tkinter as tk
 from pysnc import ServiceNowClient
 
-client = ServiceNowClient("empjcope", ("admin","C9perl##"))
+client = ServiceNowClient("instancename", ("username","pass"))
 
 gr = client.GlideRecord("sso_properties")
 gr.add_encoded_query("active=true")
